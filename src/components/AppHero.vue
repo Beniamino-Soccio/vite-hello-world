@@ -11,7 +11,7 @@ export default {
 <template>
     <div class="jumbotron">
         <div class="jumbotron-text">
-            <h1>Dovrei essere un jumbotron</h1>
+            <h2>Dovrei essere un jumbotron</h2>
             <p>non sono capace a immaginarmi un jumbotron perciò ho messo una immagine a caso</p>
         </div>
     </div>
